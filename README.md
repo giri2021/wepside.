@@ -41,6 +41,8 @@ Data Science Professional | Machine Learning | Deep Learning
 - Preprocessed customer data, including demographics, usage patterns, and service history.
 - Applied logistic regression, random forest, and XGBoost to improve predictive accuracy.
 - Achieved a model accuracy of 92%, providing actionable insights for customer retention strategies.
+
+  ![](https://github.com/giri2021/wepside./blob/main/image/Telecom%20.jpeg)
   
 # Skills
 - Git, GitHub
