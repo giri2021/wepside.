@@ -12,13 +12,13 @@ Data Science Professional | Machine Learning | Deep Learning
   
 # Projects
 
-### [Brain Tumor Detection:](https://github.com/giri2021/-Brain-tumor-dection-MRI-image-using-CNN.git)
+[Brain Tumor Detection:](https://github.com/giri2021/-Brain-tumor-dection-MRI-image-using-CNN.git)
 - Developed a CNN model to detect brain tumors with 98% accuracy.
 - Utilized deep learning architectures such as ResNet and VGGNet.
 - Performed image preprocessing and augmentation for improved detection.
 - Validated the model using real-world medical imaging datasets.
 
-  ['Brain tumor.jpg'](https://github.com/giri2021/wepside./blob/main/image/Brain%20tumor.jpg)
+!['Brain tumor.jpg'](https://github.com/giri2021/wepside./blob/main/image/Brain%20tumor.jpg)
   
 ### [Bike Sharing Demand Analysis:](https://github.com/giri2021/Bike-Sharing-Demand-Analysis-.git)
 - Analyzed bike usage trends using linear regression models.
@@ -34,7 +34,7 @@ Data Science Professional | Machine Learning | Deep Learning
 - Developed a demand prediction model for bike-sharing services.
 - Recommended data-driven strategies for fleet management.
 
-  ![](https://github.com/giri2021/wepside./blob/main/image/House%20price.jpg)
+![](https://github.com/giri2021/wepside./blob/main/image/House%20price.jpg)
 
 ### [Telecom Churn Prediction:](https://github.com/giri2021/Telecom-Churn.git)
 - Developed a machine learning model to predict customer churn in the telecom industry.
@@ -42,7 +42,7 @@ Data Science Professional | Machine Learning | Deep Learning
 - Applied logistic regression, random forest, and XGBoost to improve predictive accuracy.
 - Achieved a model accuracy of 92%, providing actionable insights for customer retention strategies.
 
-  ![](https://github.com/giri2021/wepside./blob/main/image/telecom.jpg)
+![](https://github.com/giri2021/wepside./blob/main/image/telecom.jpg)
   
 # Skills
 - Git, GitHub
