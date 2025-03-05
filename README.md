@@ -3,7 +3,9 @@ Data Science Professional | Machine Learning | Deep Learning
 
 # About me
 - Dedicated and results-driven data science professional with a strong foundation in machine learning, deep learning, and data visualization.
+  
 - As a Data Scientist, I harness the power of data to derive actionable insights, optimize decision-making, and drive business transformation. My expertise spans statistical modeling, predictive analytics, and AI-driven solutions, enabling organizations to stay ahead in the data-driven era. With a passion for innovation and problem-solving, I strive to bridge the gap between data and strategic decision-making.
+  
 - Data science plays a pivotal role in modern industries by providing a 360-degree view of business operations. Leveraging advanced analytics, AI, and machine learning, businesses can enhance customer experiences, forecast market trends, and streamline processes. From healthcare and finance to retail and manufacturing, data science is shaping the future of intelligent decision-making and operational excellence.
   
 # Education
